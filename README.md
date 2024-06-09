@@ -13,6 +13,7 @@ Here are some of the technologies and tools I work with:
 [![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+![42 Logo]([https://www.42.fr/wp-content/uploads/2018/12/42_logo_black_2015.svg](https://fr.wikipedia.org/wiki/Fichier:42_Logo.svg))
 
 ## GitHub Stats
 
@@ -41,4 +42,3 @@ Feel free to reach out to me:
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
