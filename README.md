@@ -13,7 +13,6 @@ Here are some of the technologies and tools I work with:
 [![Shell](https://img.shields.io/badge/-Shell-000?&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-![42 Logo]([https://www.42.fr/wp-content/uploads/2018/12/42_logo_black_2015.svg](https://fr.wikipedia.org/wiki/Fichier:42_Logo.svg))
 
 ## GitHub Stats
 
@@ -26,8 +25,16 @@ Check out my GitHub statistics and see what I've been working on:
 
 Here are a few of my projects:
 
-- **[Project Name](link-to-repo):** Brief description of the project.
-- **[Another Project](link-to-repo):** Brief description of another project.
+- **[LIBFT](https://github.com/ilyan42/LIBFT):** Creation of a library with various functions.
+- **[FT_PRINTF](https://github.com/ilyan42/FT_PRINTF):** Custom printf function.
+- **[GET_NEXT_LINE](https://github.com/ilyan42/GET_NEXT_LINE):** A C function to get lines from a file descriptor using a buffer size.
+- **[Born2BeRooT](https://github.com/ilyan42/BORN2BEROOT):** introduction to system administration by configuring a secure Debian server.
+- **[FT_PACMAN/SO_LONG](https://github.com/ilyan42/FT_PACMAN):** recreating a 2d game using the minilibx (pacman).
+- **[MINI_TALK](https://github.com/ilyan42/MINITALK):** Introduction to inter-process communication, using UNIX signals to exchange messages between two programs.
+- **[PUSH_SWAP](https://github.com/ilyan42/PUSH_SWAP):** Sorting algorithms, where data must be sorted into two stacks using a limited set of operations.
+- **[PHILOSOPHERS](https://github.com/ilyan42/PHILOSOPHERS):** Introduction to multithreaded programming and managing synchronization problems, using philosophers who eat, think and sleep.
+- **[MINISHELL](https://github.com/ilyan42/MINISHELL):** A custom implementation of bash based on the posix version.
+
 
 ## Contact
 
