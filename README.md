@@ -14,13 +14,6 @@ Here are some of the technologies and tools I work with:
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 
-## GitHub Stats
-
-Check out my GitHub statistics and see what I've been working on:
-
-![ilyan42's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyan42&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyan42&layout=compact&theme=radical)
-
 ## Projects
 
 Here are a few of my projects:
@@ -52,6 +45,13 @@ Here are a few of my projects:
 - **[MINISHELL](https://github.com/ilyan42/MINISHELL):** A custom implementation of bash based on the posix version.
   ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
 
+
+## GitHub Stats
+
+Check out my GitHub statistics and see what I've been working on:
+
+![ilyan42's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyan42&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyan42&layout=compact&theme=radical)
 
 ## Contact
 
